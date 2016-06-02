@@ -1,3 +1,3 @@
 # ShellScrippyScripts
 
-Exploring Bash scripting
+Learning shell scripting
