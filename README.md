@@ -1,1 +1,3 @@
 # ShellScrippyScripts
+
+Learning shell scripting
