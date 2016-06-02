@@ -1,1 +1,3 @@
 # ShellScrippyScripts
+
+Exploring Bash scripting
